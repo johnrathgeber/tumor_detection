@@ -1,6 +1,6 @@
 # Tumor Detection CNN
 
-This repository contains an image classification pipeline for tumor detection using convolutional neural networks (CNNs). It includes two models: a custom CNN trained from scratch and a VGG16-based model using transfer learning. The project also supports evaluation using saliency maps and LIME visualizations.
+This repository contains an image classification pipeline for tumor detection using convolutional neural networks (CNNs). It includes two models: a custom CNN trained from scratch and a VGG16-based model using transfer learning. The project also supports evaluation using saliency maps and LIME visualizations. Read the full report here: https://www.johnrathgeber.com/Final%20Report.pdf
 
 ## Features
 
